@@ -8,7 +8,6 @@
         "no-irregular-whitespace": 2,
         "no-unexpected-multiline": 2,
         "curly": [2, "multi-line"], 
-        "no-invalid-this": 2,
         "no-multi-str": 2,
         "no-unused-vars": [2, { "args": "none" }],
         "semi": 2,
