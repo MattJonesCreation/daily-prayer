@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Container, Header, Grid, Form } from 'semantic-ui-react';
 import './App.css';
 
 class App extends Component {
@@ -18,13 +19,17 @@ class App extends Component {
 
     render() {
         return (
-            <div className="App">
-                <header className="App-header">
-                    <p>Send your prayer to God.</p>
-                    <textarea className="App-textarea" value={this.state.value} onChange={this.handleChange} />
-                    <button className="App-button" onClick={this.handleSubmit}>Send</button>
-                </header>
-            </div>
+            <Container className="App-container">
+                <Header as="h2">Send your prayer to God.</Header>
+                <Grid columns={1} stackable>
+                    <Grid.Column>
+                        <Form>
+                            <Form.TextArea placeholder="Pray here" value={this.state.value} onChange={this.handleChange} />
+                            <Form.Button primary onClick={this.handleSubmit}>Send</Form.Button>
+                        </Form>
+                    </Grid.Column>                
+                </Grid>
+            </Container>              
         );
   }
 }
