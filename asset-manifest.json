@@ -1,13 +1,13 @@
 {
-  "main.css": "/daily-prayer/static/css/main.bfa25b05.chunk.css",
-  "main.js": "/daily-prayer/static/js/main.e3b729b1.chunk.js",
-  "main.js.map": "/daily-prayer/static/js/main.e3b729b1.chunk.js.map",
+  "main.css": "/daily-prayer/static/css/main.16c9d848.chunk.css",
+  "main.js": "/daily-prayer/static/js/main.a5976807.chunk.js",
+  "main.js.map": "/daily-prayer/static/js/main.a5976807.chunk.js.map",
   "runtime~main.js": "/daily-prayer/static/js/runtime~main.4d1eff03.js",
   "runtime~main.js.map": "/daily-prayer/static/js/runtime~main.4d1eff03.js.map",
-  "static/js/2.f213e47f.chunk.js": "/daily-prayer/static/js/2.f213e47f.chunk.js",
-  "static/js/2.f213e47f.chunk.js.map": "/daily-prayer/static/js/2.f213e47f.chunk.js.map",
+  "static/js/2.bcb1162e.chunk.js": "/daily-prayer/static/js/2.bcb1162e.chunk.js",
+  "static/js/2.bcb1162e.chunk.js.map": "/daily-prayer/static/js/2.bcb1162e.chunk.js.map",
   "index.html": "/daily-prayer/index.html",
-  "precache-manifest.94507b8691e0f43df54633696ab512f9.js": "/daily-prayer/precache-manifest.94507b8691e0f43df54633696ab512f9.js",
+  "precache-manifest.067ba3e8b3bf6228c71e93ac3b361075.js": "/daily-prayer/precache-manifest.067ba3e8b3bf6228c71e93ac3b361075.js",
   "service-worker.js": "/daily-prayer/service-worker.js",
-  "static/css/main.bfa25b05.chunk.css.map": "/daily-prayer/static/css/main.bfa25b05.chunk.css.map"
+  "static/css/main.16c9d848.chunk.css.map": "/daily-prayer/static/css/main.16c9d848.chunk.css.map"
 }
